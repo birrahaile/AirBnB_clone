@@ -297,5 +297,5 @@ $ python3 unittest -m tests/test_console.py
 ## Bugs
 No known bugs at this time. 
 
-## Authors
+## Author
 Birra Haile - [Github](https://github.com/birrahaile)  
